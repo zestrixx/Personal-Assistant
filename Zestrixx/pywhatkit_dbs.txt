@@ -1,0 +1,6 @@
+--------------------
+Date: 8:2:2021
+Time: 20:3
+Group_id: L0N1yZn9Um36mKqcNg9abW
+Message: http://codeforces.com/problemset/problem/496/A
+--------------------
